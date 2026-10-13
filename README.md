@@ -2163,7 +2163,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Moving cost ranges, reviewed movers, USDOT and Companies House licence checks, guides, and quote requests.
 - [Hercules](https://hercules.properties/integrations/mcp) `https://app.hercules.properties/mcp`
   [![Hercules MCP connector](https://glama.ai/mcp/connectors/properties.hercules/property-data/badges/score.svg)](https://glama.ai/mcp/connectors/properties.hercules/property-data)
-  🔐 - NYC and US property records: owners, LLC owner lookups, portfolios, mortgages, NYC pre-foreclosures and investor searches.
+  🔓 - NYC and US property records: owners, LLC owner lookups, portfolios, mortgages, NYC pre-foreclosures and investor searches.
 - [Irish Rent Check](https://rent-check-production.up.railway.app/) `https://rent-check-production.up.railway.app/mcp`
   [![Irish rent check MCP connector](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check/badges/score.svg)](https://glama.ai/mcp/connectors/app.railway.up.rent-check-production/irish-rent-check)
   🔓 - Irish rents by county (CSO/RTB), free; paid town and property-price tools return x402/MPP terms.
